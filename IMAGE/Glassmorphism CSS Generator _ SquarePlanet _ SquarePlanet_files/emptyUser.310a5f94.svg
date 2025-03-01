@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="93px" height="93px" viewBox="0 0 93 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <circle id="path-1" cx="46.5" cy="46.5" r="46.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="account-copy-16" transform="translate(-551.000000, -222.000000)">
+            <g id="Group-3" transform="translate(551.000000, 222.000000)">
+                <g id="avatar">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#EEF0F2" xlink:href="#path-1"></use>
+                </g>
+                <g id="icons8-user" transform="translate(31.000000, 26.000000)" fill="#B5C0CC" fill-rule="nonzero">
+                    <path d="M16,0 C10.4771525,0 6,4.4771525 6,10 C6,15.5228475 10.4771525,20 16,20 C21.5228475,20 26,15.5228475 26,10 C26,4.4771525 21.5228475,0 16,0 Z M28.021,24 L3.979,24 C1.785,24 0,25.785 0,27.979 L0,29.5 C0,32.812 1.885,35.676 5.307,37.563 C8.154,39.135 11.952,40 16,40 C23.706,40 32,36.714 32,29.5 L32,27.979 C32,25.785 30.215,24 28.021,24 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

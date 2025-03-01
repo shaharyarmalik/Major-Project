@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18.1568542px" height="10.6066017px" viewBox="0 0 18.1568542 10.6066017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow right (log in)</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logform" transform="translate(-1209, -680.1967)" stroke="#FFFFFF">
+            <g id="arrow-right-(log-in)" transform="translate(1209, 680.5503)">
+                <line x1="0.5" y1="4.94974747" x2="16.5" y2="4.94974747" id="Line-2" stroke-linecap="square"></line>
+                <polyline id="Path" transform="translate(12.5, 4.9497) rotate(-315) translate(-12.5, -4.9497)" points="9 1.44974747 16 1.44974747 16 8.44974747"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
